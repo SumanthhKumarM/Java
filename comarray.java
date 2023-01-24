@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.*;
-class addarray{
+class comarray{
 	public static void main(String args[]){
 		Scanner sc=new Scanner(System.in);
 		List<Integer> l=new ArrayList<Integer>();
